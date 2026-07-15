@@ -1,0 +1,11 @@
+# Pliki wynikowe Javy
+*.class
+out/
+
+# Dane tworzone podczas demonstracji serializacji
+schronisko.txt
+
+# Pliki IDE
+.idea/
+*.iml
+.vscode/
